@@ -12,8 +12,9 @@
 •cooking|
 
 **My first year Skills and Performance**
+
 |**skills|performance**|
-|----------------------|
+|--------|-------------|
 |Arduino Uno|Beginner|
 |C++ encoding|Beginner|
 |3D printing |Beginner|

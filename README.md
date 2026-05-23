@@ -10,8 +10,8 @@
 •playinh basketball 
 •reading books
 •cooking
-•waching movie 
-•waching anime|
+•watching movie 
+•watching anime|
 
 **My first year Skills and Performance**
 

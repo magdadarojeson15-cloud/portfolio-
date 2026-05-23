@@ -13,7 +13,7 @@
 |Hobbies|
 |-------|
 |•playing mobile games
-•playinh basketball 
+•playing basketball 
 •reading books
 •cooking
 •watching movie 

@@ -1,7 +1,9 @@
 # jeson magdadaro
 
 **NAME**: Jeson Magdadaro 
+
 **BIRT DATE**: MAY,20 2007
+
 **AGE**:19
 
  •📍Brgy.San Manuel, Purok maharlika, Puerto Princesa City, Palawan.**

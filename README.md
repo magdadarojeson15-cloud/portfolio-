@@ -5,4 +5,4 @@
 **📍 Brgy.San Manuel, Purok maharlika**
 | Subject|Project |
 |------|------------|
-| C++ |Arduino|
+| C++ -C++ is a cross-platform language that can be used to create high-performance applications. |Arduino Uno-The Arduino Uno is a beginner-friendly, open-source microcontroller board powered by an ATmega328P chip. |

@@ -1,11 +1,9 @@
 # jeson magdadaro
 
-**I'm jeson magdadaro 19 years old and born on May 20,2007 and I'm an electronics engineering student at Fulbright College**
-
+**I'm jeson magdadaro 19 years old and born on May 20,2007 and I'm an electronics engineering student at Fulbright College. And my current address is📍 Brgy.San Manuel, Purok maharlika, Puerto Princesa City, Palawan.
  
-**Playing mobile games • Coding**
+my hobbies is playing mobile games**
 
-**📍 Brgy.San Manuel, Purok maharlika**
 | Subject|Project |
 |------|------------|
 | C++  | Arduino Uno|

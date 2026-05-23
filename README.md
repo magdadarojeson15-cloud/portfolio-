@@ -5,4 +5,4 @@
 **📍 Brgy.San Manuel, Purok maharlika**
 | Role | institution|
 |------|------------|
-| Student ||Engineering students |
+|** Student |Engineering students **|

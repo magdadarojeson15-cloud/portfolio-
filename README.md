@@ -13,7 +13,7 @@
 
 **My first year Skills and Performance**
 
-|**skills|performance**|
+|skills|performance|
 |--------|-------------|
 |Arduino Uno|Beginner|
 |C++ encoding|Beginner|

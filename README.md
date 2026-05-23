@@ -7,6 +7,10 @@
 **AGE**:19
 
  •📍Brgy.San Manuel, Purok maharlika, Puerto Princesa City, Palawan.**
+
+|Role|Course|University|
+|----|------|----------|
+|Student|Bachelor of Science in Electronics Engineering(BSELE)|FULBRIGHT COLLEGE|
  
 
 

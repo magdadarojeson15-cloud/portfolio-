@@ -5,7 +5,7 @@
 
 
 |Hobbies|
-|-----------|
+|-------|
 |•playing mobile games
 •playinh basketball 
 •reading books
@@ -26,7 +26,7 @@
 |projects|
 |--------|
 |•LED blink(ARDUINO)|
-|•LED BLINKING(C++/ARDUINO)|
+|•LED BLINKING(using C++/ARDUINO)|
 |•TASER|
 
 **MY PORTFOLIO**

@@ -40,7 +40,7 @@
 |•TASER|
 
 **High School achievement**:
-**NATIONAL CERTIFICATE 2 (NC2)**
+**•NATIONAL CERTIFICATE 2 (NC2)**
 
 
 **📌📞Contact**:

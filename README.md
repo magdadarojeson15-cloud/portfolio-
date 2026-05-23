@@ -6,8 +6,8 @@
 
 |**Hobbies**|
 |-----------|
-|•playing mobile games|
-|•playinh basketball |
-|reading books|
-|cooking|
+|•playing mobile games
+•playinh basketball 
+•reading books
+•cooking|
   

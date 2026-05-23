@@ -4,7 +4,7 @@
  
 
 
-|**Hobbies**|
+|Hobbies|
 |-----------|
 |•playing mobile games
 •playinh basketball 
@@ -17,9 +17,9 @@
 
 |skills|performance|
 |--------|-------------|
-|Arduino Uno|Beginner|
-|C++ encoding|Beginner|
-|3D printing |Beginner|
+|•Arduino Uno|Beginner|
+|•C++ encoding|Beginner|
+|•3D printing |Beginner|
 
 **projects that I have been completed**
 

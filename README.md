@@ -2,4 +2,7 @@
  
 **'Playing mobile games • Coding'**
 
-**'Puerto, Princesa, City, Palawan'**
+**'Brgy.San Manuel, Purok maharlika'**
+| Role | institution|
+|------|------------|
+|**Engineering students**|

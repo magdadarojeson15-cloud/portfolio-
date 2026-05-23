@@ -3,6 +3,6 @@
 **Playing mobile games • Coding**
 
 **📍 Brgy.San Manuel, Purok maharlika**
-| Role | institution|
+| Subject|Project |
 |------|------------|
-|** Student |Engineering students **|
+| C++ |Arduino|

@@ -1,6 +1,6 @@
 # jeson magdadaro
 
-**I'm jeson magdadaro and I'm an electronics engineering student 
+**I'm jeson magdadaro 19 years old and born on May 20,2007 and I'm an electronics engineering student at Fulbright College**
 
  
 **Playing mobile games • Coding**

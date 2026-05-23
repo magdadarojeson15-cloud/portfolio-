@@ -1,3 +1,3 @@
 # jeson magdadaro 
 ## jeson magdadaro 
-**'playing mobile games•coding'**
+**'playing mobile games • coding'**

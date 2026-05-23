@@ -39,6 +39,8 @@
 |•LED BLINKING(using C++/ARDUINO)|
 |•TASER|
 
-**MY PORTFOLIO**
+**📌📞Contact**
+
+•Github: magdadarojeson15@gmail.com
 
   

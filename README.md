@@ -1,4 +1,7 @@
 # jeson magdadaro
+
+**I'm jeson magdadaro and I'm an electronics engineering student 
+
  
 **Playing mobile games • Coding**
 
@@ -6,4 +9,4 @@
 | Subject|Project |
 |------|------------|
 | C++  | Arduino Uno|
-|•C++ is a cross-platform language that can be used to create high-performance applications.      |•The Arduino Uno is a beginner-friendly, open-source microcontroller board powered by an ATmega328P chip.            |
+|•C++ is a cross platform language that can be used to create high-performance applications.      |•The Arduino Uno is a beginner-friendly, open-source microcontroller board powered by an ATmega328P chip.            |

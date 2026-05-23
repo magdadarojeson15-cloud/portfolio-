@@ -2,7 +2,7 @@
 
 **NAME**: Jeson Magdadaro 
 
-**BIRT DATE**: MAY,20 2007
+**BIRT DATE**: MAY 20, 2007
 
 **AGE**:19
 

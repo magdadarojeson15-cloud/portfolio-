@@ -9,7 +9,9 @@
 |•playing mobile games
 •playinh basketball 
 •reading books
-•cooking|
+•cooking
+•waching movie 
+•waching anime|
 
 **My first year Skills and Performance**
 
@@ -18,5 +20,15 @@
 |Arduino Uno|Beginner|
 |C++ encoding|Beginner|
 |3D printing |Beginner|
-w
+
+**projects that I have been completed**
+
+|projects|
+|--------|
+|•LED blink(ARDUINO)|
+|•LED BLINKING(C++/ARDUINO)|
+|•TASER|
+
+**MY PORTFOLIO**
+
   

@@ -39,7 +39,11 @@
 |•LED BLINKING(using C++/ARDUINO)|
 |•TASER|
 
-**📌📞Contact**
+**High School achievement**:
+**NATIONAL CERTIFICATE 2 (NC2)**
+
+
+**📌📞Contact**:
 
 •Github: magdadarojeson15@gmail.com
 

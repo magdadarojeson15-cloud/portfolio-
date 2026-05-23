@@ -1,2 +1,5 @@
-# jeson magdadaro no 
-**'playing mobile games • coding'**
+# jeson magdadaro
+ 
+**'Playing mobile games • Coding'**
+
+**'Puerto, Princesa, City, Palawan'**

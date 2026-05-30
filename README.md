@@ -1,51 +1,45 @@
-# jeson magdadaro
+ECE_ESP32_PCB_MAGDADARO_-EN1B
+My project in ENPHY-2
 
-**NAME**: Jeson Magdadaro 
+- Simple LED Control PCB
 
-**BIRT DATE**: MAY 20, 2007
+Project Description
+This project focuses on designing and developing a printed circuit board (PCB) using EasyEDA. It includes the complete schematic, PCB layout, 3D view, source files, and Gerber files required for fabrication.
 
-**AGE**:19
+---
 
- •📍Brgy.San Manuel, Purok maharlika, Puerto Princesa City, Palawan.**
+## Features
 
-|Role|Course|University|
-|----|------|----------|
-|Student|Bachelor of Science in Electronics Engineering(BSELE)|FULBRIGHT COLLEGE|
- 
+--- 
 
+- LED ON/OFF control
+- Compact PCB layout
+- Easy to manufacture
 
-|Hobbies|
-|-------|
-|•playing mobile games
-•playing basketball 
-•reading books
-•cooking
-•watching movie 
-•watching anime|
+---
 
-**My first year Skills and Performance**
+## 🔘 Components Used
 
-|skills|performance|
-|--------|-------------|
-|•Arduino Uno|Beginner|
-|•C++ encoding|Beginner|
-|•3D printing |Beginner|
+---
 
-**projects that I have been completed**
+- LED
+- Push Button
+- 220Ω Resistor
+- Battery Connector
+- Jumper wires
 
-|projects|
-|--------|
-|•LED blink(ARDUINO)|
-|•LED BLINKING(using C++/ARDUINO)|
-|•TASER|
+## 💻 Software Used
 
-**High School achievement**:
+- EasyEDA
+- Arduino IDE
+## Author Name
 
-**•NATIONAL CERTIFICATE 2 (NC2)**
+---
 
+-Jeson Magdadaro
 
-**📌📞Contact**:
+## Course & Section
 
-•Github: magdadarojeson15@gmail.com
+- BSELE - 1B
+- Jeson Magdadaro 
 
-  
